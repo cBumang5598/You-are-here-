@@ -4,3 +4,9 @@
   width: min(100% - 30px, 1080px);
   margin-inline: auto;
 }
+
+ul li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
